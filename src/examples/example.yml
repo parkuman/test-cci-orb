@@ -6,7 +6,7 @@ description: >
 usage:
   version: 2.1
   orbs:
-    <orb-name>: <namespace>/<orb-name>@0.0.0
+    <orb-name>: <namespace>/<orb-name>@0.0.2
   workflows:
     use-my-orb:
       jobs:
